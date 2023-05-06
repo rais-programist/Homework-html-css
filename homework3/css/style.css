@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+/* Header */
+.header {
+	padding: 39px 0;
+	margin: 0 0 97px 0;
+	box-sizing: border-box;
+}
+.top {
+	margin: 0 0 84px 0;
+
+}
+.logo {
+}
+.logo-img {
+}
+.logo-name {
+}
+.info {
+}
+.nav {
+}
+.link {
+}
+/* Header end */
+
+/* top-info */
+.content {
+}
+.main {
+}
+.main-header {
+	margin: 0 0 17px 0;
+}
+.main-content {
+	margin: 0 0 37px 0;
+}
+.main-buttons {
+}
+.main-btn {
+}
+.content-img {
+}
+/* End top-info */
+
+/* top-logos */
+.footer {
+}
+.footer-logos {
+}
+.footer-logos-item {
+}
+/* End top-logos */
